@@ -1,6 +1,6 @@
 # WassersteinBarycenterTextureMixing
 
-This repository is part of the practical work conducted during my Master's Degree in Artificial Intelligence at Claude Bernard University Lyon 1. The project is based on the course material [here](https://perso.liris.cnrs.fr/nicolas.bonneel/Lyon1_Transport.pdf).
+This repository is part of the practical work conducted during my Master's program in Artificial Intelligence at Claude Bernard University Lyon 1. The project is based on the course material [here](https://perso.liris.cnrs.fr/nicolas.bonneel/Lyon1_Transport.pdf).
 
 The objective is to perform texture mixing using the Sliced Wasserstein Distance (SWD). The method enables blending features of two images, referred to as the source and target, while preserving texture consistency.
 
